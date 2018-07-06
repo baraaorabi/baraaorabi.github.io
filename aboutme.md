@@ -2,8 +2,10 @@
 layout: page
 title: About me
 subtitle: My intro lines in a first date
+published: true
 ---
 
+![Me on my way to Juan de Fuca trail!]({{site.baseurl}}/img/32782987_215601962385722_8996088595253035008_n.jpg)
 ## Tiny bit of history
 My name is Baraa Orabi. It's an Arabic name (براء عْرابي), which is pronounced **/baraːʔ ʕraːbi/**. My famaily is [Damascene](https://en.wikipedia.org/wiki/Damascus) but I was born and raised in [Jeddah](https://en.wikipedia.org/wiki/Jeddah). I liked to think of myself as both Damascene and [Hejazi](https://en.wikipedia.org/wiki/Hejaz).
 
