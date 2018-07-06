@@ -6,6 +6,7 @@ published: true
 ---
 
 ![Me on my way to Juan de Fuca trail!]({{site.baseurl}}/img/32782987_215601962385722_8996088595253035008_n.jpg)
+
 ## Tiny bit of history
 My name is Baraa Orabi. It's an Arabic name (براء عْرابي), which is pronounced **/baraːʔ ʕraːbi/**. My famaily is [Damascene](https://en.wikipedia.org/wiki/Damascus) but I was born and raised in [Jeddah](https://en.wikipedia.org/wiki/Jeddah). I liked to think of myself as both Damascene and [Hejazi](https://en.wikipedia.org/wiki/Hejaz).
 
@@ -15,7 +16,7 @@ After finishing highschool, I went to [Bilkent University](http://w3.bilkent.edu
 
 ## Interests
 ### Computer science and biology
-I am working on computational cancer genomics. This involves using very large computers to manupilcate 4-lettered alphabet (aka DNA). It's a lot of fun, and I get to feel good about what I am doing 😁.
+I am working on computational cancer genomics. This involves using very large computers to manipulate 4-lettered alphabet (aka DNA). It's a lot of fun, and I get to feel good about what I am doing 😁.
 
 ### Philosiphy
 I am quite intersted in analytical philosophy. As an undergrad, I took a whole bunch of philosophy courses as part of my (aborted) minor in philosphy. Before that I used to read philosophy with my amazing friends in beautiful bookstore/cafe in Jeddah called Jusoor (shutdown by the Saudi Govt. because we were "too political" 💔).
