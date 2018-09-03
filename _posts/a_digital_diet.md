@@ -7,10 +7,8 @@ Few days ago, I was listening to a Hello Internet [episode](http://www.hellointe
 
 ## First, why?
 A lot the reasons why overlap. But I will try to focus let each of the following headers focus on a single reason.
+> I am way too attached to my phone
 
-I am way too attached to my phone
-
-> We loved with a love that was more than love
 
 
 
