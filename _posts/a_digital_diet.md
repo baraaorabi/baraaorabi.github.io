@@ -3,7 +3,12 @@ layout: post
 title: A Digital Diet
 published: true
 date: '2018-09-03'
+subtitle: Each post also has a subtitle	
+gh-repo: baraaorabi/baraaorabi.github.io	
+gh-badge: [star, fork, follow]	
+tags: [test]	
 ---
+
 Few days ago, I was listening to a Hello Internet [episode](http://www.hellointernet.fm/podcast/108). Grey was talking about starting a project of undergoing a digital diet. I think his reasons resonated with me. So in this post, I would like to think out loud, and plan how I will undergo my own digital diet.
 
 ## First, what's wrong?
