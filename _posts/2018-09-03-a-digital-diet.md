@@ -1,6 +1,7 @@
 ---
 layout: post
-title: First post!
+title: A Digital Diet
+date: 2018-09-03
 ---
 
 Few days ago, I was listening to a Hello Internet [episode](http://www.hellointernet.fm/podcast/108). Grey was talking about starting a project of undergoing a digital diet. I think his reasons resonated with me. So in this post, I would like to think out loud, and plan how I will undergo my own digital diet.
