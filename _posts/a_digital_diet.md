@@ -27,7 +27,7 @@ I like socializing. I have always lived with family. At different times in my li
 
 ## So, what will the diet look like?
 
-I think the digital diet I am considering will target two aspects of my digital life. First is my passive media consumption. That would include YouTube, Twitter, Facebook, Path, (most of) Instagram, Spotify, podcasts, and Netflix. The second is my socializing media use. This includes WhatsApp, Instagram (DM), Telegram, and Slack. What I 
+I think the digital diet I am considering will target two aspects of my digital life. First is my passive media consumption. That would include YouTube, Twitter, Facebook, Path, (most of) Instagram, Spotify, podcasts, and Netflix. The second is my socializing media use. This includes WhatsApp, Instagram (DM), Telegram, and Slack. What I want to 
 
 
 
