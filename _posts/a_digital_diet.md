@@ -7,8 +7,21 @@ Few days ago, I was listening to a Hello Internet [episode](http://www.hellointe
 
 ## First, why?
 A lot the reasons why overlap. But I will try to focus let each of the following headers focus on a single reason.
-> I am way too attached to my phone
 
+> **I am attached to my phone**
+My phone has become a prosthetic organ that I constantly feel its absence when it's not on me. This doesn't feel right. I do know that my phone is an amazing device, and it's not like I'm preparing for a day in which I don't have phone, but I think it's a good idea to examine the extent of this attachment and degree it affects me mentally and phyiscally (aching wrists 😕).
+
+
+> **My mind is constantly seeking small sugar rushes**
+Looking at my phone, checking if I have new messages has become a backround running process in my head. When I am out, with my phone in my left pocket, I feel an urge to reach out and check my phone. Did I receive new message? Is someone trying to reach me? I open YouTube: did someone upload a nice little nugget I can gnaw on? I refresh Twitter: any bites? Check the apps (🙃): any candy?
+
+> **My mind is (almost) never experience silence**
+I am almost always consuming media. From the moment I open my opens, I reach for the phone, turn on the WiFi connection, and sort through the deluge of notifications. It became a morning routine for me. I then would do some workouts while playing a YouTube video, then I would shower with the sound of music playing in the background. I make my breakfast listening to a podcast or last night's Colbert monologue. I go to work with headphones on, playing Spotify, which would last the whole workday. I would go home, watch some more YouTube, and probably a some Netflix. I then fall asleep after consuming some more media (🙃). And then I repeat.
+I am not exeriencing silence.
+
+> ****
+
+## Also, why not?
 
 
 
