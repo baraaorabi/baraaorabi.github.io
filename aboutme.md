@@ -10,9 +10,13 @@ published: true
 ## Tiny bit of history
 My name is Baraa Orabi. It's an Arabic name (براء عْرابي), which is pronounced **/baraːʔ ʕraːbi/**. My family is [Damascene](https://en.wikipedia.org/wiki/Damascus) but I was born and raised in [Jeddah](https://en.wikipedia.org/wiki/Jeddah). I liked to think of myself as both Damascene and [Hejazi](https://en.wikipedia.org/wiki/Hejaz).
 
-I speak [Damascene Arabic](https://en.wikipedia.org/wiki/Levantine_Arabic} as my mother tongue. I have (very) modest knowledge of Turkish.  I am most comfortable when I can [code-switch](https://en.wikipedia.org/wiki/Code-switching) between Arabic and English (with some Turkish vocab added for fun).  
+I speak [Damascene Arabic](https://en.wikipedia.org/wiki/Levantine_Arabic) as my mother tongue. I have (very) modest knowledge of Turkish.  I am most comfortable when I can [code-switch](https://en.wikipedia.org/wiki/Code-switching) between Arabic and English (with some Turkish vocab added for fun).  
 
-After finishing high school, I went to [Bilkent University](http://w3.bilkent.edu.tr/bilkent/) in Ankara, where I had my B.Sc. in Computer Engineering. Currently, I am a M.Sc. student at [Simon Fraser Univerisity](https://www.sfu.ca/) in Metro Vancouver. where I am supervised by [Dr. Cedric Chauve](http://www.cecm.sfu.ca/~cchauve/) and [Dr. Faraz Hach](http://www.cs.sfu.ca/~fhach/personal/). I am also part of Dr. Hach lab at [Vancouver Prostate Centre](http://www.prostatecentre.com/about-us/people/dr-faraz-hach) where I spend most of my time.
+After finishing high school, I went to [Bilkent University](http://w3.bilkent.edu.tr/bilkent/) in Ankara, where I had my B.Sc. in Computer Engineering, and my M.Sc. from [Simon Fraser Univerisity](https://www.sfu.ca/) in Metro Vancouver, where I was supervised by [Dr. Cedric Chauve](http://www.cecm.sfu.ca/~cchauve/) and [Dr. Faraz Hach](http://www.cs.sfu.ca/~fhach/personal/). 
+
+## Now
+I am a PhD student at the [University of British Columbia](https://cs.ubc.ca/) computer science department, supervised by M.Sc. supervisors, Faraz and Cedric.
+I am also part the [Hach Lab}(http://hachlab.org/) at [Vancouver Prostate Centre](http://www.prostatecentre.com/about-us/people/dr-faraz-hach) where I spend most of my time.
 
 ## Interests
 ### Computer science and biology
