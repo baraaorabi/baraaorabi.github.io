@@ -16,7 +16,7 @@ After finishing high school, I went to [Bilkent University](http://w3.bilkent.ed
 
 ## Now
 I am a PhD student at the [University of British Columbia](https://cs.ubc.ca/) computer science department, supervised by M.Sc. supervisors, Faraz and Cedric.
-I am also part the [Hach Lab}(http://hachlab.org/) at [Vancouver Prostate Centre](http://www.prostatecentre.com/about-us/people/dr-faraz-hach) where I spend most of my time.
+I am also part the [Hach Lab](http://hachlab.org/) at [Vancouver Prostate Centre](http://www.prostatecentre.com/about-us/people/dr-faraz-hach) where I spend most of my time.
 
 ## Interests
 ### Computer science and biology
